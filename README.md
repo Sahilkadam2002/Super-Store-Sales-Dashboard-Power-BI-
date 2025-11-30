@@ -1,7 +1,8 @@
 # Super-Store-Sales-Dashboard-Power-BI- 
 ## Purpose 
 * The purpose behind to make this dashboard is to track the sales of Super Store to identify their monthly sales, sales by shiping and many other, with the help of intereactive powerr bi dashboard. 
-
+## Dataset 
+<a href="https://github.com/Sahilkadam2002/Super-Store-Sales-Dashboard-Power-BI-/blob/main/POWER%20BI%20PROJECT.pbix">Dataset<a/>
 ## KPI's 
 * Sales Performance Overview (Sales, Profit, Quantity)
 * Identified sales by the category. 
